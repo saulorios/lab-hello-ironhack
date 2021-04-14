@@ -28,6 +28,49 @@
   color: #61dafb;
 }
 
+.bg-dark-iron {
+  background-color: #1f2535;
+}
+.nav-menu {
+  justify-content: flex-end;
+}
+.nav-menu button {
+  border: none;
+  background-color: #1f2535;
+  outline: none;
+  cursor: pointer;
+}
+.bg-color-body {
+  background-color: #fff;
+  padding: 0 1% 0 1%;
+}
+.bg-prime {
+  width: 500px;
+  margin-left: 14%;
+  padding: 5% 0 ;
+}
+.title-prime h1{
+  font-weight: bolder;
+  font-size: 80px;
+}
+.btn-awesome {
+  margin: 40px 0 0 0;
+}
+.img-size {
+  height: 100px;
+  width: 100px;
+}
+.box-size-items {
+  max-width: 250px;
+  min-width: 200px;
+}
+.section-items {
+  padding: 2%;
+}
+.box-items {
+  margin: 2%;
+  justify-content: center;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
